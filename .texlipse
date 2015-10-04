@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Thu Sep 04 12:42:25 CDT 2014
+markTmpDer=true
+builderNum=2
+outputDir=pdf
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=amir_sohrabi_resume.tex
+outputFile=amir_sohrabi_resume.pdf
+langSpell=en
+markDer=true
+srcDir=src

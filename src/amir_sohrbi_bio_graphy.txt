@@ -1,0 +1,14 @@
+Amir Sohrabi is a PhD candidate in Mechanical Engineering Department of Texas A&M University.
+He has a Master of Science degree in Aero Structural Engineering from Amir Kabir University of Technology.
+His undergraduate study was on Mechanical Engineering and in Fluid and heats.
+He undergraduate and graduate research was on robotics and laminated composite plates respectively.
+At the moment, he is working on his dissertation on Nonlinear and Rate-Dependent Hysteresis Electro-Mechanical Responses of Ferro-Electric Materials.
+He has developed his own finite element model for using Fortran90 for solving problems in solid mechanics.
+This model enables non linear and time dependent simulation of multi functional structures.
+His area of interest are in:
+	Finite Element Method
+	Piezo electric materials
+	Nonlinear material models and nonlinear geometry
+	Robotics
+
+	

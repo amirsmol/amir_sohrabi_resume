@@ -1,0 +1,60 @@
+amir_sohrabi_resume
+517 Southwest Parkway, 303 (979) 676-4466
+College Staion, TX, 77840 Amir Sohrabi amirsmol@gmail.com
+Objective
+I am interested in an engineering position in the elds of structural analysis, nite element analysis (FEA) and dynamic
+analysis of structures.
+Education
+May 2015 Doctor of Philosophy, Mechanical Engineering, Texas A&M University, College Station, TX
+ Thesis Topic: non linear and Rate-Dependent Hysteresis Electro-Mechanical Responses of Ferro-Electric Materials
+May 2007 Master of Science, Aero Structural Engineering, Amirkabir University, Tehran, Iran
+ Thesis Topic: Stability Analysis of Moderately Thick Composite Structures Using Generalized Finite Strip Method
+May 2004 Bachelor of Science, Mechanical Engineering in Fluid, Iran University of Science & Technology, Tehran, Iran
+ Thesis Topic: Design, Simulation and Manufacturing of The 3R Wrist for a Robotic Arm
+Software Skills
+Simulation: Abaqus FEA, COSMOS, ANSYS, dealii, MSC ADAMS, Working Model 3D
+Modeling: SolidWorks, Autodesk Mechanical Desktop, Autocad, CATIA
+Computer Algebra System: Maple, MATLAB, wxMaxima
+Programming: Fortran, C++, Python, Visual Basic
+Documentation: Oce, \LaTeX, Tecplot, ParaView, VisIt
+Certificates
+FE license awarded by the National Council of Examiners for Engineering and Surveying
+IIMEC school certicate awarded by the International Institute for Multifunctional Materials for Energy Conversion
+Relevant Experiences
+Research Assistant, Texas A&M University, College Station, Texas Jan'11 - Current
+ Prepared a Python code for optimizing de
+ection of a honeycomb panel under pinching in Abaqus/CAE
+ Designed and simulated a piezoelectric beam actuator for bending and twisting incorporating polarization switching
+phenomena with Abaqus/UEL and Abaqus/UMAT for high voltage that lead to 60% more displacement
+ Developed a modular non linear time dependent Finite Element program for multifunctional materials in Fortran for
+analysis of piezoelectric devices that enables non linear and coupled constitutive equations and geometric non linearity
+ Obtained a novel transient model for bending of piezoelectric composite beams
+ Created a method for morphing of a smart truss systems by means of the Finite Element modelling
+Design Engineer, PSACO Vibrating Equipments and Plants, Tehran, Iran Jan'08 - Aug'09
+ Enhanced performance and increased durability of vibratory sieves by using 3D mathematical models and MSC ADAMS
+ Performed modal analysis to correctly predict dynamic responses of vibratory sieves for Ahvas Petrochemical Industries
+in a wide range of excitation frequencies resulted in enhancement of their vibration characteristic
+ Designed and simulated a vibratory bulk material elevator using SolidWorks and COSMOS for handling materials for a
+food company which had space limitation in its plant
+ Prepared an accident free installation procedure and designed safe transportation frame for vibratory sieves using
+SolidWorks and ANSYS to prevent transportation and installation damages
+Design Engineer, MAPN Design and Manufacturing, Tehran, Iran Dec'03 - Sep'04
+ Designed and drafted parts for diesel generator using Mechanical Desktop
+ Prepared technical drawing and engineered manufacturing process for the replacement parts by extracting dimensional
+and material data from obsolete malfunctioning parts
+Engineering Intern,Iran Khodro, Karaj, Iran Summer 2002
+ Designed a totally automatized nut-feeder system using MSC ADAMS that increased safety and production speed in
+assembly line of Peykan Truck
+
+Engineering Intern, Fahham Heavy Machinery, Shadabad, Iran, Summer 2001
+ Controlled quality of parts of a centrifugal casting machine which was being manufactured for Iran Pipes and Machinery
+in Fahham Heavy Machinery's machine shop
+ Designed necessary xtures or auxiliary manufacturing parts using Autocad
+Communication Skills
+Spoken: English, Farsi, Turkish; Learning: French, Spanish
+Latest Presentations: National Congress on Theoretical & Applied Mechanics, The American Society for Composites
+
+National Congress on Theoretical and Applied Mechanics, 2014.
+
+Work Authorization
+Eligible for CPT (Curricular Practical Training) as well as OPT (Optional Practical Training) for at least 29 months
